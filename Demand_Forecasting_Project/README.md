@@ -112,7 +112,7 @@ This demand forecasting system helps businesses make better inventory decisions:
   </a>
   <a href="https://github.com/srir-2002" style="text-decoration: none;">
     <img src="https://github.com/srir-2002.png" width="60" height="60" style="border-radius: 50%;" alt="Srir">
-    <div style="text-align: center; margin-top: 5px; font-size: 14px;">Srir</div>
+    <div style="text-align: center; margin-top: 5px; font-size: 14px;">Sriram</div>
   </a>
   <a href="https://github.com/manjiri5461" style="text-decoration: none;">
     <img src="https://github.com/manjiri5461.png" width="60" height="60" style="border-radius: 50%;" alt="Manjiri">
@@ -120,7 +120,7 @@ This demand forecasting system helps businesses make better inventory decisions:
   </a>
   <a href="https://github.com/Mokshu3242" style="text-decoration: none;">
     <img src="https://github.com/Mokshu3242.png" width="60" height="60" style="border-radius: 50%;" alt="Mokshu">
-    <div style="text-align: center; margin-top: 5px; font-size: 14px;">Mokshu</div>
+    <div style="text-align: center; margin-top: 5px; font-size: 14px;">Mokshad Sankhe</div>
   </a>
 </div>
 
