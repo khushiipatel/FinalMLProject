@@ -126,9 +126,9 @@ This demand forecasting system helps businesses make better inventory decisions:
 
 #### Contributor Profiles:
 - **Khushi Patel** - [@khushiipatel](https://github.com/khushiipatel)
-- **Srir** - [@srir-2002](https://github.com/srir-2002)
+- **Sriram** - [@srir-2002](https://github.com/srir-2002)
 - **Manjiri** - [@manjiri5461](https://github.com/manjiri5461)
-- **Mokshu** - [@Mokshu3242](https://github.com/Mokshu3242)
+- **Mokshad Sankhe** - [@Mokshu3242](https://github.com/Mokshu3242)
 
 ## References
 H. Malik, "A beginner's approach to time-series with working example: Demand forecasting │ Time series example with Kaggle," Medium, Jun. 11, 2024. [Online]. Available: https://medium.com/@humzahmalik/a-beginners-approach-to-time-series-with-working-example-c6bff9c24928
