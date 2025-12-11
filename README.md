@@ -65,12 +65,12 @@ Inside Jupyter, open:
 
 ## Visualization
 This visualization helps identify which model most accurately predicts daily demand across all products for each of the 7 days, enabling better decision‑making for inventory and resource planning.
-![](visualization.jpeg)
+![](./Demand_Forecasting_Project/visualization.jpeg)
 
-For detailed model experiments, evaluation metrics, and performance comparisons, please refer to the [Documentation](./Documentation_DemandForecasting.pdf)
+For detailed model experiments, evaluation metrics, and performance comparisons, please refer to the [Documentation](./Demand_Forecasting_Project/Documentation_DemandForecasting.pdf)
 
 ## System Architecture
-![](system_architecture.png)
+![](./Demand_Forecasting_Project/system_architecture.png)
 
 ## Machine Learning Models used
 * LightGBM;
@@ -91,10 +91,10 @@ ESEMBLE        | 1.0383  | 0.4559  | 1.40%
 LightGBM achieved the best overall performance with the lowest RMSE and WMAPE.
 
 ## Output
-![](daily_product_forecast_summary.png)
-![](daily_store_forecast_summary.png)
-![](final_inventory_recommendations.png)
-![](future_demand_forecast_complete.png)
+![](./Demand_Forecasting_Project/daily_product_forecast_summary.png)
+![](./Demand_Forecasting_Project/daily_store_forecast_summary.png)
+![](./Demand_Forecasting_Project/final_inventory_recommendations.png)
+![](./Demand_Forecasting_Project/future_demand_forecast_complete.png)
 
 ## Example Use Cases 
 This demand forecasting system helps businesses make better inventory decisions:
