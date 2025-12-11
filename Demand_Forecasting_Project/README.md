@@ -1,5 +1,5 @@
-# CS613-Machine-Learning
-Final Project: Demand Forecasting
+# CS613: Machine-Learning
+# Demand Forecasting
 
 ## About The Project
 The main aim of this project is to make sure each shop receives the right amount of stock at the right time. It focuses on avoiding situations where a shop runs out of products and loses customers, while also preventing sending more stock than the shop can realistically sell. In simple terms, the objective is to maintain a healthy balance—not too much, not too little—so that shops can operate smoothly, meet customer demand, and avoid unnecessary costs or wastage.
@@ -104,11 +104,17 @@ This demand forecasting system helps businesses make better inventory decisions:
 * **Optimize inventory costs** by planning purchasing cycles to keep just enough stock without tying up too much capital.
 * **Improve customer satisfaction** by ensuring popular products are always available when customers want to buy them.
 
-## Contributors
-* Manjiri Khodke
-* Mokshad Sankhe
-* Sriram Suvaidhar
-* Khushi Patel
+### Top Contributors
+
+<a href="https://github.com/khushiipatel/FinalMLProject/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=khushiipatel/FinalMLProject" alt="Contributors" />
+</a>
+
+#### Contributor Profiles:
+- **Khushi Patel** - [@khushiipatel](https://github.com/khushiipatel)
+- **Srir** - [@srir-2002](https://github.com/srir-2002)
+- **Manjiri** - [@manjiri5461](https://github.com/manjiri5461)
+- **Mokshu** - [@Mokshu3242](https://github.com/Mokshu3242)
 
 ## References
 H. Malik, "A beginner's approach to time-series with working example: Demand forecasting │ Time series example with Kaggle," Medium, Jun. 11, 2024. [Online]. Available: https://medium.com/@humzahmalik/a-beginners-approach-to-time-series-with-working-example-c6bff9c24928
