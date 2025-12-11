@@ -105,8 +105,7 @@ This demand forecasting system helps businesses make better inventory decisions:
 * **Improve customer satisfaction** by ensuring popular products are always available when customers want to buy them.
 
 ### Top Contributors
-
-<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; margin: 20px 0;">
+<div style="display: flex; gap: 15px; align-items: center; margin: 20px 0;">
   <a href="https://github.com/khushiipatel" style="text-decoration: none;">
     <img src="https://github.com/khushiipatel.png" width="60" height="60" style="border-radius: 50%;" alt="Khushi Patel">
     <div style="text-align: center; margin-top: 5px; font-size: 14px;">Khushi</div>
