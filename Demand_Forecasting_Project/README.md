@@ -106,9 +106,24 @@ This demand forecasting system helps businesses make better inventory decisions:
 
 ### Top Contributors
 
-<a href="https://github.com/khushiipatel/FinalMLProject/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=khushiipatel/FinalMLProject" alt="Contributors" />
-</a>
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; margin: 20px 0;">
+  <a href="https://github.com/khushiipatel" style="text-decoration: none;">
+    <img src="https://github.com/khushiipatel.png" width="60" height="60" style="border-radius: 50%;" alt="Khushi Patel">
+    <div style="text-align: center; margin-top: 5px; font-size: 14px;">Khushi</div>
+  </a>
+  <a href="https://github.com/srir-2002" style="text-decoration: none;">
+    <img src="https://github.com/srir-2002.png" width="60" height="60" style="border-radius: 50%;" alt="Srir">
+    <div style="text-align: center; margin-top: 5px; font-size: 14px;">Srir</div>
+  </a>
+  <a href="https://github.com/manjiri5461" style="text-decoration: none;">
+    <img src="https://github.com/manjiri5461.png" width="60" height="60" style="border-radius: 50%;" alt="Manjiri">
+    <div style="text-align: center; margin-top: 5px; font-size: 14px;">Manjiri</div>
+  </a>
+  <a href="https://github.com/Mokshu3242" style="text-decoration: none;">
+    <img src="https://github.com/Mokshu3242.png" width="60" height="60" style="border-radius: 50%;" alt="Mokshu">
+    <div style="text-align: center; margin-top: 5px; font-size: 14px;">Mokshu</div>
+  </a>
+</div>
 
 #### Contributor Profiles:
 - **Khushi Patel** - [@khushiipatel](https://github.com/khushiipatel)
